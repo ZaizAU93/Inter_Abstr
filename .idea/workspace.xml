@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfdb7fd1-7060-409c-a953-8e000fbcbd9b" name="Changes" comment="sdfg">
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Voice.java" afterDir="false" />
+    <list default="true" id="bfdb7fd1-7060-409c-a953-8e000fbcbd9b" name="Changes" comment="1 задание">
+      <change afterPath="$PROJECT_DIR$/src/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JobTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -50,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694713154192</updated>
-      <workItem from="1694713156690" duration="617000" />
+      <workItem from="1694713156690" duration="2352000" />
     </task>
     <task id="LOCAL-00001" summary="sdfg">
       <created>1694713270951</created>
@@ -59,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694713270951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 задание">
+      <created>1694713804156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694713804156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdfg" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdfg" />
+    <MESSAGE value="1 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 задание" />
   </component>
 </project>
