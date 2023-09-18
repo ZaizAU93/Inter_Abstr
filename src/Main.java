@@ -15,7 +15,7 @@ import Zadaniq_4.Triangle;
 
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws CloneNotSupportedException {
         Scanner line = new Scanner(System.in);
 
         //Задача 1:
@@ -108,8 +108,12 @@ public class Main {
             }
 
 
+            System.out.println("Задание с Cloneable");
+            Person person1 = new Person("John", 20);
 
-
+            Person person2 = (Person) person1.clone();
+            System.out.println("Person 1: " + person1.getName() + ", " + person1.getAge());
+            System.out.println("Person 2: " + person2.getName() + ", " + person2.getAge());
 
         }
     }

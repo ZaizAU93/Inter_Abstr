@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfdb7fd1-7060-409c-a953-8e000fbcbd9b" name="Changes" comment="1 задание">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadaniq_4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadaniq_4/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadaniq_4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadaniq_4/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_3/Accountant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadaniq_1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_2/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_3/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadaniq_1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_2/Hp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JobTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_3/JobTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_2/Mac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Voice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadaniq_1/Voice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_3/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zadanie_2/Mac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie_2/Mac.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694713154192</updated>
       <workItem from="1694713156690" duration="2465000" />
-      <workItem from="1694770022015" duration="16215000" />
+      <workItem from="1694770022015" duration="17806000" />
     </task>
     <task id="LOCAL-00001" summary="sdfg">
       <created>1694713270951</created>
@@ -98,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694715633182</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1 задание">
+      <created>1695023138978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695023138978</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
