@@ -1,4 +1,6 @@
-public class Dog implements Voice{
+package Zadaniq_1;
+
+public class Dog implements Voice {
 
     @Override
     public void doVoice() {

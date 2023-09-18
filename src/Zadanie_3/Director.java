@@ -1,7 +1,9 @@
+package Zadanie_3;
+
 public class Director implements JobTitle {
     public String nameJob;
 
-//    public Director(String s) {
+//    public Zadanie_3.Director(String s) {
 //        this.nameJob = nameJob;
 //    }
 

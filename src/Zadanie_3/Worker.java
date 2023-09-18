@@ -1,7 +1,9 @@
-public class Accountant implements JobTitle{
+package Zadanie_3;
+
+public class Worker implements JobTitle {
     public String nameJob;
 
-//    public Accountant(String s) {
+//    public Zadanie_3.Worker(String s) {
 //        this.nameJob = nameJob;
 //    }
 
